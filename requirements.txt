@@ -1,0 +1,21 @@
+# Core
+torch>=1.13.0
+torchvision>=0.14.0
+numpy>=1.23.0
+
+# CLIP (OpenAI)
+# Install via: pip install git+https://github.com/openai/CLIP.git
+# clip
+
+# 3D visualization & geometry
+open3d>=0.17.0
+
+# Image processing
+Pillow>=9.0.0
+
+# Clustering & scientific computing
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Plotting
+matplotlib>=3.6.0
